@@ -1,0 +1,16 @@
+D:\works\C#\HelloWorldConsole\bin\Debug\net5.0\HelloWorldConsole.exe
+D:\works\C#\HelloWorldConsole\bin\Debug\net5.0\HelloWorldConsole.deps.json
+D:\works\C#\HelloWorldConsole\bin\Debug\net5.0\HelloWorldConsole.runtimeconfig.json
+D:\works\C#\HelloWorldConsole\bin\Debug\net5.0\HelloWorldConsole.runtimeconfig.dev.json
+D:\works\C#\HelloWorldConsole\bin\Debug\net5.0\HelloWorldConsole.dll
+D:\works\C#\HelloWorldConsole\bin\Debug\net5.0\ref\HelloWorldConsole.dll
+D:\works\C#\HelloWorldConsole\bin\Debug\net5.0\HelloWorldConsole.pdb
+D:\works\C#\HelloWorldConsole\obj\Debug\net5.0\HelloWorldConsole.csprojAssemblyReference.cache
+D:\works\C#\HelloWorldConsole\obj\Debug\net5.0\HelloWorldConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\works\C#\HelloWorldConsole\obj\Debug\net5.0\HelloWorldConsole.AssemblyInfoInputs.cache
+D:\works\C#\HelloWorldConsole\obj\Debug\net5.0\HelloWorldConsole.AssemblyInfo.cs
+D:\works\C#\HelloWorldConsole\obj\Debug\net5.0\HelloWorldConsole.csproj.CoreCompileInputs.cache
+D:\works\C#\HelloWorldConsole\obj\Debug\net5.0\HelloWorldConsole.dll
+D:\works\C#\HelloWorldConsole\obj\Debug\net5.0\ref\HelloWorldConsole.dll
+D:\works\C#\HelloWorldConsole\obj\Debug\net5.0\HelloWorldConsole.pdb
+D:\works\C#\HelloWorldConsole\obj\Debug\net5.0\HelloWorldConsole.genruntimeconfig.cache
